@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string name="homepage">首页</string>
+    <string name="query_analysis">查询分析</string>
+    <string name="alarm">报警</string>
+    <string name="me">我的</string>
+</resources>
